@@ -1,6 +1,10 @@
 # mu-vision
 Freecam cinematográfico para FiveM (standalone, compatible con qbox/qbcore/esx).
 
+
+![3918f8458f2822b220de0d433cb4c092](https://github.com/user-attachments/assets/0ed6a043-db07-4be9-b993-f1d471731a7d)
+
+
 ## Características
 - Tecla **F9** para activar/desactivar freecam (comando `/muvision` con KeyMapping).
 - Moverse con **WASD**, **Espacio** (subir), **CTRL** (bajar/ir lento), **SHIFT** (ir rápido).
