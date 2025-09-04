@@ -14,8 +14,13 @@ Config.MinFov = 15.0
 Config.MaxFov = 90.0
 Config.FovStep = 2.0
 
--- In freecam, hide HUD/radar?
+-- Hide HUD/radar each frame while freecam is active
 Config.HideHud = true
 
--- In freecam, disable player controls (shooting, melee, etc.)?
+-- Disable player combat controls while active
 Config.DisableCombat = true
+
+-- Limit how far the camera can move from the anchor (player position on toggle)
+Config.EnableDistanceLimits = true
+Config.MinDistance = 1.0   -- meters (0 = no near limit)
+Config.MaxDistance = 50.0 -- meters (set higher/lower to taste)
