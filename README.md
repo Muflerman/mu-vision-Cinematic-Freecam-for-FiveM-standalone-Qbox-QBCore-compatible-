@@ -3,6 +3,8 @@ Freecam cinematográfico para FiveM (standalone, compatible con qbox/qbcore/esx)
 
 
 ![3918f8458f2822b220de0d433cb4c092](https://github.com/user-attachments/assets/0ed6a043-db07-4be9-b993-f1d471731a7d)
+![08be1efc38dfc5a9cb590c19f8c49df0](https://github.com/user-attachments/assets/42f0a767-ee2a-4931-a63d-2167f3235ccb)
+
 
 
 ## Características
@@ -12,6 +14,7 @@ Freecam cinematográfico para FiveM (standalone, compatible con qbox/qbcore/esx)
 - Zoom con **rueda del ratón** (ajusta el FOV).
 - Oculta HUD/minimapa solo mientras está activo (sin cambiar tu estado global).
 - Solo cliente; sin dependencias.
+- Añadido menu para mas precicion 
 
 ## Instalación
 1. Descarga el `.zip` y extrae la carpeta **mu-vision** en `resources/` de tu servidor.
