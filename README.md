@@ -3,7 +3,8 @@ Freecam cinematográfico para FiveM (standalone, compatible con qbox/qbcore/esx)
 
 
 ![3918f8458f2822b220de0d433cb4c092](https://github.com/user-attachments/assets/0ed6a043-db07-4be9-b993-f1d471731a7d)
-![08be1efc38dfc5a9cb590c19f8c49df0](https://github.com/user-attachments/assets/42f0a767-ee2a-4931-a63d-2167f3235ccb)
+
+![a19e5e3fa718f1d0a77c378eab20b226](https://github.com/user-attachments/assets/c0db913b-a19e-4729-bf50-a771d180871a)
 
 
 
