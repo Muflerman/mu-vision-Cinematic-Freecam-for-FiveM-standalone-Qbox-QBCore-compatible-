@@ -23,4 +23,10 @@ Config.DisableCombat = true
 -- Limit how far the camera can move from the anchor (player position on toggle)
 Config.EnableDistanceLimits = true
 Config.MinDistance = 1.0   -- meters (0 = no near limit)
-Config.MaxDistance = 50.0 -- meters (set higher/lower to taste)
+Config.MaxDistance = 150.0 -- meters (set higher/lower to taste)
+
+
+-- Optional: show an on-screen controls helper via lation_ui (if resource is running)
+Config.UseLationUI = true
+
+Config.LationUICompact = true
