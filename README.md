@@ -41,3 +41,6 @@ Freecam cinematográfico para FiveM (standalone, compatible con qbox/qbcore/esx)
 
 ## Créditos
 Creado para alex (@nosovkboserovmp). Disfruta de tus tomas estilo cine ✨
+
+
+
